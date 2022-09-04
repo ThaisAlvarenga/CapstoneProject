@@ -19,14 +19,14 @@ I created a simple map of the interactive story, taking into consideration the i
 
 This is the original outline that was take as a model for the prototype in Twine. 
 
-<img src="post-images/Prototype 1-1.jpg">
+<img src="Images/Prototype 1-1.jpg">
 
 ## Making a Hypertext Experience
 
 The prototype was created in Twine. A digital tool that allows people to create hypertext stories that can be exported as HTML files. It is based on basic HTML, CSS and Javascript. Twine also has tools for creating and storing variable and debugging.
 
 This is how the final version of prototype 1 looks like in the Twine interface:
-<img src="post-images/prototype1-twine.png">
+<img src="Images/prototype1-twine.png">
 
 The prototype has not yet been tested but it will be in the following week. 
 
